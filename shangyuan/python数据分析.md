@@ -13,7 +13,19 @@
 ### 编程语法巩固网站
 
 * https://www.lintcode.com/problem/?typeId=8 python入门题目(184题目，6周完成120道题目)
-* 上课同步参考网站菜鸟教程
+* https://www.runoob.com/python3/python3-list.html  上课同步参考网站菜鸟教程 
+* https://github.com/shixiuhai/dataAnalysis.git  git仓库地址
+
+## 学习安排（2月）
+
+* 第一周学 基础数据类型 2.5 h
+* 第二周学 条件控制和循环函数2.5 h
+* 第三周 巩固条件控制和循环2.5 h
+* 第四周 编程题讲解2.5 h
+* 第五周 pandas和matplotlib numpy 基础2.5 h
+* 第六周 餐厅订单数据分析项目 或者python批量处理excel文件2.5 h
+* 第七周 完善餐厅订单项目和开始物流行业醒目2.5 h
+* 第八周 完善物流行业项目以及总结 2.5h
 
 ### 开始python的学习
 
@@ -118,8 +130,8 @@
 * python条件控制
 
   * if elif else
-  * switch case
-  * 三目运算符
+  * **match...case**跳过
+  * 三目运算符  跳过 
 
 * python 字符串操作
   * 字符串切片
@@ -172,7 +184,9 @@
 
 ## 入门项目
 
-* 通过读取多个excel文件进行跨文件的数据进行处理 
-* pm2.5案例
+* 通过读取多个excel文件进行跨文件的数据进行处理
 * 餐厅订单数据分析
+* 物流行业数据分析
 * 豆瓣电影数据分析
+* pm2.5案例
+
