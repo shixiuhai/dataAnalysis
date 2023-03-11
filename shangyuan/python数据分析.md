@@ -2,14 +2,6 @@
 
 ## python基础 
 
-### 推荐三本数据分析入门的书
-
-* 对比Excel,轻松学习Python数据分析（入职数据分析师系列） 张俊红
-
-* python数据分析从入门到精通（明日科技）
-
-* 数据分析:企业的贤内助（职业思维的培养）
-
 ### 编程语法巩固网站
 
 * https://www.lintcode.com/problem/?typeId=8 python入门题目(184题目，6周完成120道题目)
@@ -22,10 +14,10 @@
 * 第二周学 条件控制和循环函数2.5 h
 * 第三周 巩固条件控制和循环2.5 h
 * 第四周 编程题讲解2.5 h
-* 第五周 pandas和matplotlib numpy 基础2.5 h
-* 第六周 餐厅订单数据分析项目 或者python批量处理excel文件2.5 h
-* 第七周 完善餐厅订单项目和开始物流行业醒目2.5 h
-* 第八周 完善物流行业项目以及总结 2.5h
+* 第四周 编程题讲解2.5 h
+* 第四周 编程题讲解2.5 h
+* 第七周 python操作mysql（关于sql的增删改查，分组，去重，索引建立）
+* 第八周 python操作mysql（关于sql的增删改查，分组，去重，索引建立）
 
 ### 开始python的学习
 
@@ -49,14 +41,26 @@
 * python环境搭建
 
   * 经典的开发环境配置
+
   * 虚拟环境使用
     * 基于python的虚拟环境，可以实现项目依赖隔离
+    
+      ```python
+      python3 -m venv env # 创建一个名称为env的虚拟环境，python版本不变
+      ```
+    
     * 基于anaconda构建python和依赖的虚拟环境（数据分析基本可以不用）
+    
   * 基于anaconda安装 jupyter notebook
     * 跳过
+    
   * 基于vscode 使用jupyter notebook
     * 下载安装vscode
+    
+      
+    
     * 配置一下python的插件
+    
     * 配置jupyter notebook环境
 
 * python基础语法
@@ -119,6 +123,7 @@
 * python函数
 
   * 什么是函数
+  
 * 怎么实现函数
   * 程序员常说的技术栈和框架是什么
 
